@@ -1,11 +1,4 @@
-# React Portfolio App
 
-This app is centered around exposing students to the react router, and routing with react. It also brings in Radium, and Reactstrap to experiment with styling in React. It will use JSON data to simulate portfolio information.
-
-### Main Dependencies Used
-* React
-* React Router
-* Reactstrap
 * Bootstrap
 * Radium
 
